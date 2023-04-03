@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hn.bancatlan.base.util.respuesta;
+package hn.bancatlan.base.dto.respuesta.exposicion;
 
-import hn.bancatlan.base.util.common.estructura.CampoAdicional;
-import hn.bancatlan.base.util.common.estructura.MensajeRespuesta;
+import hn.bancatlan.base.dto.estructura.CampoAdicional;
+import hn.bancatlan.base.dto.estructura.MensajeRespuesta;
 
 import java.util.List;
 

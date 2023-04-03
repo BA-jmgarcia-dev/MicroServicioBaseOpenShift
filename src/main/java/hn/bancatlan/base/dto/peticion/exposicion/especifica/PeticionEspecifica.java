@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hn.bancatlan.base.util.peticion.especifica;
+package hn.bancatlan.base.dto.peticion.exposicion.especifica;
 
-import java.util.List;
+import hn.bancatlan.base.dto.peticion.exposicion.PeticionGeneral;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import hn.bancatlan.base.util.peticion.PeticionGeneral;
+
+import java.util.List;
 
 /**
  *

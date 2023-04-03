@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hn.bancatlan.base.util.peticion;
+package hn.bancatlan.base.dto.peticion.exposicion;
 
-import java.util.List;
-
-import hn.bancatlan.base.util.common.estructura.CampoAdicional;
-import hn.bancatlan.base.util.common.estructura.IdentificadorItem;
+import hn.bancatlan.base.dto.estructura.CampoAdicional;
+import hn.bancatlan.base.dto.estructura.IdentificadorItem;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import java.util.List;
 
 /**
  *

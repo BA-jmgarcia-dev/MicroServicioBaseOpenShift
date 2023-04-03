@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hn.bancatlan.base.util.common.estructura;
+package hn.bancatlan.base.dto.estructura;
 
 import lombok.Data;
 
@@ -12,8 +12,9 @@ import lombok.Data;
  * @author jcruzm
  */
 @Data
-public class CampoAdicional {
-    private int numeroLinea;
-    private String descripcionValor;
-    private String valor;
+public class IdentificadorItem {
+    private String idProceso;
+    private String referenciaBus;
+    private String numeroTransaccion;
+    private String tipoTransaccion;
 }

@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hn.bancatlan.base.util.respuesta.especifica;
+package hn.bancatlan.base.dto.respuesta.exposicion.especifica;
 
-import java.util.List;
+import hn.bancatlan.base.dto.respuesta.exposicion.RespuestaGeneral;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import hn.bancatlan.base.util.respuesta.RespuestaGeneral;
+
+import java.util.List;
 
 /**
  *
